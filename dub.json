@@ -1,0 +1,14 @@
+{
+	"authors": [
+		"Павел"
+	],
+	"copyright": "Copyright © 2022, Павел",
+	"dependencies": {
+		"arsd-official:terminal": "~>10.5.1",
+		"ncurses": "~>0.0.149",
+		"portaudio": "~>1.0.2"
+	},
+	"description": "A minimal D application.",
+	"license": "free",
+	"name": "pa-test"
+}

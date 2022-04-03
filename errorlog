@@ -1,0 +1,3 @@
+../../.dub/packages/ncurses-0.0.149/ncurses/source/deimos/ncurses/curses.d(1486,1): Deprecation: Usage of the `body` keyword is deprecated. Use `do` instead.
+source/app.d(93,10): Error: cannot implicitly convert expression `i` of type `ulong` to `int`
+/usr/bin/dmd failed with exit code 1.
